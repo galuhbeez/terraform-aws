@@ -1,2 +1,2 @@
-# terraform-was
+# terraform-aws
 terraform templates for AWS resources
